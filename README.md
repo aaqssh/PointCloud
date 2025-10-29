@@ -1,0 +1,2 @@
+This is a rolling ball on a four-triangle surface, making a diamond shape. The rolling of the ball stops as soon as the velocity becomes negligible. Also, a separate C++ file is included with the main idea, but should not be included with other files to be used in QT creator.
+<img width="989" height="780" alt="Näyttökuva 2025-10-29 111615" src="https://github.com/user-attachments/assets/0f71f08d-444b-483d-8881-f7a1bc358011" />
