@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RollingBallSim",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RollingBallSim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RollingBallSim-Debug-e29ee963c10a04d491df.json",
+					"name" : "RollingBallSim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RollingBallSim_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RollingBallSim_autogen-Debug-45327c6d1f9aecf68f30.json",
+					"name" : "RollingBallSim_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RollingBallSim_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RollingBallSim_autogen_timestamp_deps-Debug-b612cf5690fbc4cd26e9.json",
+					"name" : "RollingBallSim_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/akash/Downloads/RollingBallSim/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/akash/Downloads/RollingBallSim"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

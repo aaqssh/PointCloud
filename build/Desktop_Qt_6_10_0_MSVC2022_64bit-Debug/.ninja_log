@@ -1,0 +1,18 @@
+# ninja log v6
+20	778	7831146993406385	RollingBallSim_autogen/timestamp	346537b86160d179
+20	778	7831146993406385	RollingBallSim_autogen/mocs_compilation.cpp	346537b86160d179
+20	778	7831146993406385	C:/Users/akash/Downloads/RollingBallSim/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/RollingBallSim_autogen/timestamp	346537b86160d179
+20	778	7831146993406385	C:/Users/akash/Downloads/RollingBallSim/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/RollingBallSim_autogen/mocs_compilation.cpp	346537b86160d179
+880	2031	7831146995930952	CMakeFiles/RollingBallSim.dir/camera.cpp.obj	10ad8a1bb86a2d6
+853	2112	7831146995694371	CMakeFiles/RollingBallSim.dir/rollingball.cpp.obj	30879321f1f38806
+823	2170	7831146995405432	CMakeFiles/RollingBallSim.dir/trianglesurface.cpp.obj	12ea8cdf698b5f48
+807	4578	7831146995239240	CMakeFiles/RollingBallSim.dir/renderwindow.cpp.obj	5b0714f1a1f4d63b
+798	4585	7831146995153765	CMakeFiles/RollingBallSim.dir/main.cpp.obj	399873f67ae307d3
+786	4648	7831146994994623	CMakeFiles/RollingBallSim.dir/RollingBallSim_autogen/mocs_compilation.cpp.obj	25fcd4a174a896b2
+4649	5249	7831147033662129	RollingBallSim.exe	f9d7c37c75c2f4a6
+20	306	7831157956881219	RollingBallSim_autogen/timestamp	346537b86160d179
+20	306	7831157956881219	RollingBallSim_autogen/mocs_compilation.cpp	346537b86160d179
+20	306	7831157956881219	C:/Users/akash/Downloads/RollingBallSim/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/RollingBallSim_autogen/timestamp	346537b86160d179
+20	306	7831157956881219	C:/Users/akash/Downloads/RollingBallSim/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/RollingBallSim_autogen/mocs_compilation.cpp	346537b86160d179
+307	3648	7831157959758194	CMakeFiles/RollingBallSim.dir/main.cpp.obj	399873f67ae307d3
+3648	3974	7831157993179499	RollingBallSim.exe	f9d7c37c75c2f4a6
